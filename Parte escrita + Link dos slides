@@ -1,0 +1,373 @@
+Automatização do sistema judiciário
+
+Alunos: Gabrielle Souza, Guilherme Gagliardi, Julia Couto, Maria Beatriz
+
+Introdução:
+
+  A evolução da tecnologia representa disrupção em praticamente todos os
+setores da sociedade. No século passado, a robótica industrial transformou os
+modos de produção. Agora, temos exemplos reais de sistemas que já
+incorporam a Inteligência Artificial para automatizar processos em áreas como
+saúde, telecomunicações e Justiça.
+  A automatização do sistema judiciário refere-se à aplicação de tecnologia e
+sistemas automatizados para melhorar a eficiência e a eficácia do processo
+judicial. Isso pode incluir o uso de software para gerenciar casos, agendar
+audiências, analisar documentos legais, facilitar a comunicação entre as partes
+envolvidas e até mesmo tomar decisões judiciais com base em algoritmos,
+entre outros benefícios que serão ditos a seguir. A automação busca reduzir a
+carga de trabalho manual, acelerar os processos e melhorar o acesso à justiça,
+embora também apresente desafios em termos de transparência, equidade e
+proteção de dados, que vamos ver mais pra frente.
+Situação Antes da Automatização:
+  Antes da automatização, o sistema judiciário operava principalmente de maneira
+manual e baseado em papel. Os processos judiciais eram fisicamente
+arquivados em tribunais e exigiam uma grande quantidade de papel, espaço de
+armazenamento e recursos humanos para gerenciamento. Isso resultava em
+vários desafios:
+
+⮚ Morosidade: Processos judiciais frequentemente demoravam muito tempo para
+serem resolvidos, devido à necessidade de deslocamento de documentos
+físicos, petições manuscritas e agendamentos em papel.
+⮚ Inacessibilidade: Acesso aos processos judiciais era limitado e, muitas vezes,
+complicado para o público em geral. Isso tornava o sistema menos transparente
+e menos acessível para cidadãos comuns.
+⮚ Custos Elevados: O gerenciamento de processos em papel envolvia custos
+significativos com impressão, armazenamento e transporte, afetando os
+orçamentos do sistema judiciário.
+
+A Automatização Atual com o PJe:
+
+A automação aplicada ao judiciário permite a eliminação de tarefas repetitivas e
+diminuição do uso de mão de obra em qualquer processo sendo assim minimiza
+ações que exigiam esforços físicos e tempos, como por exemplo a distribuição
+de um processo físico e o seu transporte para a vara sorteada, no entanto não
+eliminou o uso de papel 100%. Com a introdução do Processo Judicial Eletrônico,
+o sistema judiciário passou por uma transformação significativa. Ele é uma
+plataforma digital elaborada pelo CNJ em cooperação com diversos Tribunais,
+tem a participação consultiva do Conselho Nacional do Ministério Público, OAB,
+Advocacia Pública e Defensorias Públicas e foi criada para a tramitação de
+processos judiciais de forma eletrônica, tem como objetivo de modernizar o
+sistema judiciário, tornando-o mais eficiente, acessível e econômico. O PJe é
+utilizado em 73 tribunais em todo o Brasil e possui 22 milhões de processos em
+tramitação. No PJe é possível ter acesso aos autos digitais que informam sobre
+  o processo apresentando os registros de cada um de acordo com o perfil do
+usuário e tem a possibilidade de acompanhar a cronologia dos documentos e
+movimentos processuais.
+
+As principais características e benefícios da PJe são:
+
+⮚ Tramitação Eletrônica: Os documentos e petições relacionados a um
+processo judicial são apresentados e tramitam em formato digital,
+eliminando a necessidade de documentos em papel.
+● Ajuda ao Meio Ambiente: a eliminação do uso de papel é benéfica
+para o meio ambiente, reduzindo a pegada de carbono associada
+ao sistema judiciário.
+⮚ Acesso Remoto: O sistema pode ser acessado pela internet, permitindo
+que advogados, juízes, partes envolvidas e o público em geral consultem
+processos e apresentem petições de qualquer lugar com uma conexão à
+internet.
+● Acessibilidade: O PJe torna o sistema de justiça mais acessível,
+sendo assim há um amplo acesso aos documentos do processo
+permitindo assim que pessoas monitorem o andamento de
+processos e acessem informações relacionadas,
+independentemente de onde se encontrarem.
+● Redução de Deslocamentos: A eliminação da necessidade de
+deslocamentos físicos para os tribunais economiza tempo e
+recursos. Isso é particularmente valioso em áreas urbanas com
+tráfego intenso ou em emergências, como a pandemia de COVID19, quando as visitas aos tribunais foram limitadas.
+● Agilidade: Processos tramitam de forma mais rápida, já que não há
+necessidade de aguardar a movimentação de documentos físicos.
+as partes podem consultar processos e realizar tarefas judiciais a
+qualquer hora, 24 horas por dia, 7 dias por semana. Isso oferece
+maior flexibilidade e evita a necessidade de seguir estritamente os
+horários de expediente dos tribunais.
+● Interação com o Sistema: O acesso remoto permite que advogados
+e partes envolvidas interajam diretamente com o sistema judicial,
+apresentem petições, consultem andamentos e recebam
+notificações eletrônicas. Isso agiliza o processo e torna a
+administração da justiça mais eficaz.
+⮚ Redução de Custos: A eliminação do uso de papel, impressões, as
+despesas com Transporte, porque os Processos judiciais físicos
+frequentemente exigem que documentos sejam transportados de um
+tribunal para outro ou para outros envolvidos, os custos operacionais
+resultando em uma economia de recursos.
+⮚ Transparência: Informações sobre processos judiciais são mais
+facilmente disponíveis ao público, aumentando a transparência e
+prestação de contas do sistema judiciário.
+⮚ Segurança: Melhor garantia de que as informações presentes em
+registros e casos judiciais digitais estejam protegidas, assegurado por
+meio de fiscalizações e um histórico completo de acessos e edições em
+documentos, prevenindo, assim, possíveis extravios, roubos e perdas de
+documentos dos processos que poderia ter mais chances de ocorrer com
+papéis.
+⮚ Extinção da obrigatoriedade de realizar contagens e fornecer informações
+gerenciais para órgãos de controle como as corregedorias e os conselhos;
+⮚ Melhoria na eficiência do trabalho relacionados aos processos legais,
+introduzindo funcionalidades previamente indisponíveis que aceleram a
+análise de solicitações e documentos judiciais, diminuindo o tempo dos
+despachos, por exemplo.
+  A automatização com o PJe revolucionou o sistema judiciário, ou seja, houve
+uma eficiência em que os processos judiciais atualmente podem ser criados,
+acessados e atualizados de forma eletrônica, eliminando a necessidade de
+documentos em papel, agilizando o fluxo de trabalho fazendo até mesmo com
+que as partes e o juiz foquem sua atenção em outras partes mais importantes
+para o processo. Ele é um exemplo notável de como a tecnologia está
+transformando o funcionamento do sistema judiciário e tornando a justiça mais
+acessível e ágil para todos os envolvidos.
+  Além do PJe, existem outros sistemas que auxiliam nessa automatizam como
+DCP que é o sistema de Distribuição e Controle de Processos que tem por
+finalidade a distribuição e o acompanhamento de processos de primeira
+instancia. Há também o PROJUD que é um programa de computador em que
+seu funcionamento é bastante simples, a pessoa que quiser ingressar com
+alguma reclamação nos Juizados Especiais pode utilizar a Internet ou também
+pode ir ao setor de atendimento dos juizados, os pedidos serão registrados
+eletronicamente, com distribuição e cadastramento automático do processo.
+Ademais existe o e-proc (Sistema de Transmissão Eletrônica de Atos
+Processuais da Justiça Federal da Primeira Região) é um sistema de
+peticionamento eletrônico, que tem como objetivo a permissão aos advogados e
+seus credenciados encaminhar suas petições à Justiça Federal da Primeira
+Região via internet, podendo otimizar o tempo sem o deslocamento.
+
+Principais desafios da implementação da automatização no sistema
+judiciário:
+
+Dentre os diversos desafios que a implementação automatização do sistema
+judiciário apresenta, podemos citar:
+
+1- Complexidade de casos
+Muitos casos judiciais envolvem nuances e detalhes que podem ser difíceis de
+serem interpretados por sistemas automatizados. Como, por exemplo, casos em
+que é preciso ter um pouco mais da sensibilidade humana.
+
+2- Privacidade e segurança de dados
+A automatização requer o manuseio de dados sensíveis e deve garantir a
+segurança e a privacidade das informações pessoais dos envolvidos nos casos,
+o que pode resultar em preocupações de privacidade e segurança exigindo
+medidas robustas de proteção de dados para que não haja vazamento destes.
+Eu tenho um exemplo concreto que aconteceu com a minha família. Meu pai era
+cliente de um banco há muitos anos atrás, mas recentemente ele vinha
+recebendo ligações de cobrança que ele não havia acumulado. Quando fomos
+ver, descobrimos que no banco houve um vazamento de dados e que uma outra
+pessoa estava se passando pelo meu pai e fazendo essa dívida no nome dele.
+
+3- Viés algorítmico
+Esse ponto é totalmente relacionado ao primeiro que eu falei, porque algoritmos
+usados na tomada de decisões judiciais automatizadas podem refletir vieses
+presentes nos dados utilizados para treinar os algoritmos, o que pode levar a
+decisões injustas ou discriminatórias, já que ele não possui a sensibilidade
+humana que eu mencionei e exigem julgamento humano. Em outras palavras, o
+viés algorítmico na justiça refere-se a situações em que algoritmos e inteligência
+artificial são usados no sistema legal e podem resultar em decisões
+discriminatórias devido a dados enviesados ou programação inadequada. Isso
+levanta preocupações sobre justiça e transparência. Soluções incluem o
+desenvolvimento de algoritmos mais justos e transparentes, diversificação das
+equipes de desenvolvimento e regulamentações governamentais para garantir a
+equidade nas decisões judiciais. É um problema crítico que precisa de atenção
+para garantir a equidade no sistema de justiça.
+
+4- Acesso equitativo
+Apesar da introdução de tecnologia no meio jurídico ser um facilitador no acesso
+para muita gente, pode ao mesmo tempo criar uma lacuna digital e dificultar o
+acesso à justiça para indivíduos que não estão familiarizados com a tecnologia,
+como pessoas idosas.
+
+5- Resistência à mudança
+Pode haver resistência por parte de profissionais do sistema judiciário que
+temem que a automatização substitua empregos ou reduza sua influência no
+processo. Além disso, pode ser recebida com resistência por parte da sociedade
+que pode desconfiar da imparcialidade e da equidade das decisões
+automatizadas.
+Segundo estudo da consultoria global Deloitte, até 2036, 100 mil empregos na
+área do Direito serão automatizados. Ou seja, desempenhados por sistemas de
+Inteligência Artificial.
+
+6- Regulamentação adequada
+Para que essa automatização se torne uma realidade, é necessário criar
+regulamentações adequadas para orientar a implementação da automatização
+garantindo que ela seja justa e ética.
+
+7- Manutenção, atualização e custo
+A implementação de sistemas automatizados pode ser dispendiosa e exige
+investimentos substanciais em tecnologia e treinamento. Além disso os sistemas
+automatizados requerem manutenção contínua e atualizações para
+permanecerem relevantes e eficazes.
+
+Recursos usados do Pje:
+
+O TRE, sistema usado por grande parte dos tribunais no nosso país, é um dos
+sistemas que buscou mudar a perspectiva dos processos que antes eram feitos
+em papel para passarem a ser feitos de forma eletrônica. O que de forma alguma
+não exclui os processos em papel, mas esse movimento promove muito o uso
+online dos processos pela maior praticidade e segurança.
+  Além disso, é importante ressaltar que o sistema do TRE não é o único com essa
+função de auxiliar os tribunais com celeridade na movimentação de informações
+e acessibilidade. O DCP é um desses outros sistemas, usado por alguns
+tribunais do Rio de Janeiro. Isso mostra como não existe uma homogeneidade
+entre os sistema dos tribunais no Brasil, algo que pode ser bom por conta da
+segurança dos dados e a liberdade das corporações de participar com a venda
+de sistemas para esses tribunaisque para eles se adequarem com os recursos
+que necessitarem como por exemplo o eventual uso de IAs.
+O sistema do TRE utiliza a linguagem Java, essa que é recomendada por ser
+mais segura do que outras. Contudo, para o uso dos recursos dele é necessário
+o JRE, ou Java Runtime Enviroment, que serve para o funcionamento correto da
+plataforma. A administração desse sistema é feita pelo Comitê Gestor Nacional
+e pelo Comitê Gestor dos Conselhos e dos Tribunais que trabalham para garantir
+o bom uso da plataforma e o acesso e distribuição do sistema em mais tribunais.
+
+Sorteio eletrônico e como funciona:
+
+O sorteio eletrônico é um método digital criado para garantir o Juiz Natural,
+garantia individual de que não é possível escolher o Juizado no qual seu
+processo irá tramitar, sobre essa perspectiva e da ubiquidade da Internet o
+instituto do sorteio eletrônico surgiu. Ele utiliza um algoritmo para sortear o
+juizado competente, essa competência é o direito-dever de julgar uma causa,
+para isso existem critérios legais que definem a competência, sendo eles:
+Territorialidade, a comarca ou sessão jurídica que irá tramitar esse processo,
+sendo por regra geral o domínio do réu. Matéria, o tema da causa, por exemplo,
+uma vara cível para causa de matéria de direito civil. Função, baseado na função
+do órgão judicial, por exemplo, competência da demanda de recursal. Valor da
+causa, em causas de valor até 40 salários mínimos, a competência é dos JEC's,
+Juizados Especiais Cíveis. E por fim, Quanto a pessoa, no caso de foro
+privilegiado.
+  Assim, o tipo de algoritmo mais adequado é o Random Forest, ele é uma
+amálgama entre a Árvore de decisões e o algoritmo aleatório, ou seja, ele toma
+decisões primeiro analisando critérios específicos para essa decisão, assim que
+todos critérios necessários excluam opções indesejadas, o algoritmo define de
+forma randômica, nesse caso, o número da vara. Por exemplo, um indivíduo,
+funcionário público, descumpre um contrato de locação, devendo uma bagatela
+de 50000 reais e mora no Paraná, deverá ser julgado na comarca da cidade do
+Paraná onde mora, em segunda instância em tribunal cível comum. Por fim, a
+vara cível deferida a esse caso será decidido de forma aleatória, assim
+garantindo de forma justa como deve tramitar seu processo.
+
+Citação por meio eletrônico:
+
+  Em seguida, deve-se comentar a respeito da automatização da citação. A citação
+se configura como a segunda etapa do procedimento comum do processo. O ato
+de citar o réu é de suma importância para o desenvolvimento do processo, pois
+a partir de momento, o processo se tornará triangular e em sua forma completa,
+isto é, formado pelo autor, réu e Estado. Além disso, essa etapa se caracteriza
+como mero ato de comunicação processual, ou seja, contribui de maneira formal
+apenas para o processo.
+  De maneira geral, a citação é entregue pessoalmente de duas maneiras: pelos
+Correios, via postal, ou por um Oficial de Justiça. A presente atividade não irá se
+aprofundar na explicação desses casos, uma vez que não é o seu foco, porém
+é válido explicar sua principal diferença. O Oficial de Justiça dispõe de fé pública,
+logo, caso o réu se negue a receber a citação, a sua palavra tem força para levar
+essa informação ao juiz. Por outro lado, o carteiro, por ser um empregado dos
+Correios, não dispõe da mesma fé pública
+A citação por meio eletrônico é uma novidade no mundo jurídico e é
+implementado desde do novo Código de Processo Civil, promulgado em 2015.
+A regulamentação da citação eletrônica está prevista nos artigos 246 e 247 do
+CPC/2015.
+  Para que a citação por meio eletrônico possa ser realizada, os órgãos públicos
+e empresas devem realizar um cadastro eletrônico no sistema judiciário. Isso é
+considerado um pré-requisito para que esse tipo de citação possa ser
+implementado. Esse cadastro é necessário, pois órgãos públicos empresas são
+considerados litigantes habituais logo, para poupar tempo, esse cadastro
+eletrônico que conta com todas as informações relevante é requisitado. Desse
+modo, é possível observar que o sistema judiciário elabora um banco de dados
+que armazena informações desses litigantes habituais, com o objetivo de
+otimizar um processo célere e também garantir a segurança do sistema jurídico.
+A citação por meio eletrônico é feita via e-mail. É necessário que o réu cadastre
+um e-mail válido e por vontade própria no sistema judiciário. Assim, por esse email, há envio das informações do processo, com uma cópia da petição inicial.
+Em anexo, há o envio de um código verificador, ou seja, um token, para que o
+réu faça a confirmação do recebimento da citação em até 3 dias úteis. Caso o
+réu não realize essa confirmação, é considerada prática de litigância de má fé e
+há a implementação de uma multa sobre esse réu. Desse modo, é possível
+observar que o sistema judiciário faz questão de garantir o total recebimento da
+citação.
+
+6 exemplos de inteligência artificial na justiça:
+
+1 - Inteligência Artificial para investigação de fraudes:
+O escritório de fraudes sérias investigou a empresa Rolls Royce por quatro anos
+E isso resultou numa pilha de 30 milhões de documentos.
+O passo seguinte seria fazer uma triagem dessa papelada processo que
+demoraria meses ao custo do trabalho repetitivo de estagiários.
+Mas pra fazer isso de forma mais rápida o escritório contratou a RAVN, enquanto
+os estagiários consegui um vascular 3000 documentos por dia, a RAVN
+processava 60.000 e possui uma taxa de erro bem menor.
+Assim, foram economizados tempo e recursos.
+
+2 - Análise de documentos e contratos:
+Softwares de IA como ROSS Intelligence, Kira, LawGeex e eBrevia são usados
+para fazer o machine learning, que consiste em ler, analisar e extrair informações
+de documentos legais, melhorando a precisão e eficiência na revisão de
+contratos e documentos. Essa função leva tempo e a tediosa para qualquer ser
+humano, além de que a mínima desatenção pode causar prejuízos financeiros
+no processo de fusão e aquisição de empresas, por exemplo.
+E esses algoritmos usados também aprendem E se aperfeiçoou às
+necessidades conforme o uso.
+
+3 - Análises preditivas e tomada de decisões:
+A primeira fase da transformação digital do Judiciário foi a eliminação dos
+processos físicos. Milhões de páginas de papel “passaram” para dentro dos
+computadores. O resultado é um acervo gigantesco de dados em constante
+crescimento: um Big Data jurídico.
+Por meio das técnicas de Ciência de Dados e Inteligência Artificial, é possível
+coletar e processar esses dados, gerando informações valiosas para os
+tomadores de decisão. Então, por exemplo, você poderia defender um caso e
+pode conferir como mesmo tema foi julgado no tribunal por determinado juiz, E
+se a tendência for perder você poderia fazer um acordo.
+
+4 - Exemplos de Inteligência Artificial nas altas cortes do Judiciário:
+O Superior Tribunal de Justiça (STJ) e o Supremo Tribunal Federal (STF) no
+Brasil implementaram IA para automatizar tarefas, como classificação
+processual e identificação de temas relevantes, visando aumentar a eficiência e
+reduzir o trabalho repetitivo.
+
+5 - Inteligência Artificial para prevenir crimes:
+Na Itália foi desenvolvido o X-Law, Uma inteligência artificial que consegue
+prever as localidades em que há mais chances de ocorrer um crime.
+Esse algoritmo é alimentado com informações tanto do comportamento de
+suspeitos e criminosos quanto da rotina da cidade.
+Então após o processamento dos dados e envie um alerta a cada meia hora
+sobre onde a maior possibilidade de ocorrer um delito, com isso a polícia
+consegue reduzir a área de patrulhas de 125 km para 26 km por dia.
+
+6 - Análise de risco e controvérsias nos tribunais americanos:
+Sistemas de IA, como o Public Safety Assessment e o COMPAS, são usados
+nos tribunais dos EUA para avaliar riscos e auxiliar juízes na definição de
+medidas judiciais. No entanto, isso levanta questões éticas sobre viés,
+transparência e fiscalização dos algoritmos.
+
+Conclusão:
+
+  Em resumo automatização do sistema judiciário oferece uma série de benefícios
+incluindo eficiência e redução de custos. No entanto, também levantar desafios
+que precisam ser cuidadosamente consideradas e gerenciados ao implementar
+soluções automatizadas no sistema judiciário.
+Com a mudança do sistema jurídico com o Processo Judicial Eletrônico (Pje) foi
+possível perceber uma maior eficiência, acessibilidade e economia no processos
+judiciais.
+Acerca do tema do sorteio eletrônico, parte necessária da garantia do Juiz
+natural, as tecnologias ajudaram a facilitar o esse processo e torná-lo de mais
+difícil alienação.
+Em relação à citação por meio eletrônico, é possível observar que, apesar de
+ainda existir a aplicação do método tradicional, a automatização trouxe inúmeras
+melhorias para o sistema judiciário - como a celeridade do processo. Além disso,
+o novo método ainda tem como objetivo garantir a segurança jurídica e que o réu
+seja notificado de sua real situação jurídica.
+
+Referencias:
+
+https://www.cnj.jus.br/programa-justica-4-0-trabalha-em-melhorias-dos-autosdigitais-do-pje/
+https://www.cnj.jus.br/programas-e-acoes/processo-judicial-eletronico-pje/
+https://www.tjdft.jus.br/informacoes/perguntas-mais-frequentes/processojudicial-eletronico-pje
+https://www.cnj.jus.br/tecnologia-da-informacao-e-comunicacao/plataformadigital-do-poder-judiciario-brasileiro-pdpj-br/
+https://portal.trf1.jus.br/Processos/ePeticao/info/FAQ_eproc.htm
+https://www3.tjrj.jus.br/projudi/
+https://www.tst.jus.br/web/pje/comite-gestor-nacional
+https://icmcjunior.com.br/randomforest/#:~:text=O%20algoritmo%20Random%20Forest%20(Floresta,para%20c
+hegar%20no%20resultado%20final
+https://justicadigital.com/blog/exemplos-inteligencia-artificial/
+https://transformacaodigital.com/juridico/automacao-juridica
+https://www.jusbrasil.com.br/artigos/a-importancia-e-os-desafios-dainformatizacao-do-poder-judiciario/1788009808
+https://www.migalhas.com.br/amp/coluna/cpc-na-pratica/352394/a-citacao-pormeio-eletronico
+https://www.jusbrasil.com.br/artigos/a-citacao-por-meio-eletronico-do-artigo246-do-codigo-de-processo-civil/1281513758/amp
+https://processoeletronico.aasp.org.br/citacao-e-intimacao-por-meio-eletronicono-novo-cpc/
+
+Segue o link dos slides da apresentação:
+
+https://www.canva.com/design/DAFxnYAV4ng/SIIqVn_Vct32h2HbLgcxOg/edit
